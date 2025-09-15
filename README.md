@@ -8,7 +8,8 @@
 <img width="241" height="241" alt="image" src="https://github.com/user-attachments/assets/c338b77f-66b8-4eed-bd62-f4430c63621d" />
 
 
-Correo electronico: fabian.rc004@gmail.com
+Correo electronico: recj040823@gs.utm.mx
+
 
 Soy estudiante universitario de la carrera de Ingeniería en Mecatrónica, apasionado por la tecnología y el desarrollo de soluciones innovadoras. Me gusta practicar fútbol y compartir buenos momentos con amigos disfrutando de una pizza, actividades que complementan mi formación académica y me ayudan a mantener un equilibrio entre el estudio y mi tiempo libre.
 

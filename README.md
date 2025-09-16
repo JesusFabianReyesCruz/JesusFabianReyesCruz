@@ -15,5 +15,7 @@ Soy estudiante universitario de la carrera de Ingeniería en Mecatrónica, apasi
 
 Durante mi preparación, me atraen especialmente las asignaturas relacionadas con la mecánica, como Mecánica de Materiales, Diseño de Elementos de Máquinas y Mecánica de Fluidos, entre otras porque me permiten comprender cómo funcionan y el diseño de las partes mecanicas.
 
+Poseo conocimientos básicos de programación en C++ y me interesa ampliar mi dominio en otros lenguajes y herramientas de modelado y simulación. He trabajado con plataformas de diseño asistido por computadora como SolidWorks y disfruto desarrollar soluciones creativas en equipo. Entre mis habilidades blandas destacan la comunicación efectiva, el trabajo colaborativo y la adaptabilidad.
+
 Tengo un interes en el diseño y análisis de automóviles, maquinaria pesada y sus componentes, con la meta de desarrollarme profesionalmente en empresas automotrices, aportando a la creación de vehículos y equipos que integren eficiencia, seguridad y tecnología avanzada.
 
